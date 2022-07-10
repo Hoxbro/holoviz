@@ -49,6 +49,10 @@ You should then make sure you have `anaconda-project` installed:
 
    > conda install anaconda-project
 
+If you're on a M1 Mac you need to set the following system environment:
+
+   > export CONDA_SUBDIR=osx-64
+
 
 Step 2: Download and extract the tutorial project
 -------------------------------------------------
